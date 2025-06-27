@@ -7,6 +7,6 @@ export class HomePage {
   }
 
   getTitle() {
-    return cy.get('title') // Replace 'title' with the actual CSS selector if needed
+    return cy.get('title') 
   }
 }
